@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Data%20Analyst;Machine%20Learning%20Engineer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Python;Golang;Machine%20Learning%20Engineer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -56,8 +56,8 @@
                                                                               
  ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+// ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+// ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-0170FE?style=for-the-badge&logo=pandas&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
@@ -68,7 +68,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-FF4154?style=for-the-badge&logo=scikit-learn%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![R](https://img.shields.io/badge/R-F05032?style=for-the-badge&logo=R&logoColor=white)                                                          
+// ![R](https://img.shields.io/badge/R-F05032?style=for-the-badge&logo=R&logoColor=white)                                                          
                                                                             
                                                                               
 <br/>
