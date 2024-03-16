@@ -1,11 +1,11 @@
-<h2 align="center">
+<h2 align="left">
   Hi there, Welcome to My Github.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 
 
-<p align="right">
+<p align="left">
  <a href="https://www.kaggle.com/seanminingah" target="blank">
   <img src="https://img.shields.io/badge/Kaggle-DC143C?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" />
  </a>
